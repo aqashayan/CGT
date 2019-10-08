@@ -14,8 +14,7 @@
 
 ## what is CliGsmTool ...
 
-### CliGsmTool is free and open source gsm repire tool.
-
+### CliGsmTool is a tools free and open source command-line based tool for mobile phone repairs.
 ------------------------------------------------------------------------------------------------------------------
 
 ## copyright ...
