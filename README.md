@@ -14,7 +14,7 @@
 
 ## what is CliGsmTool ...
 
-### CliGsmTool is a tools free and open source command-line based tool for mobile phone repairs.
+### CliGsmTool is a tool free and open source command-line based tool for mobile phone repairs.
 ------------------------------------------------------------------------------------------------------------------
 
 ## copyright ...
