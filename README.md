@@ -36,8 +36,8 @@
 ## contact me ...
 
 ### email      : 051.SYS113@gmail.com
-### telegram   : [Links](https://t.me/SYS113/)
-### instagram  : [Links](https://www.instagram.com/SYS113/)
+### telegram   : SYS113
+### instagram  : SYS113
 
 ------------------------------------------------------------------------------------------------------------------
 
