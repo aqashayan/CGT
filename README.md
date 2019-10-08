@@ -10,7 +10,7 @@
 
 ## what is CliGsmTool ...
 
-### CliGsmTool is free and open source gsm repire tool
+### CliGsmTool is free and open source gsm repire tool.
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -22,22 +22,22 @@
 
 ## licanse ...
 
-### GPL V3.0 license , see LICENSE file.
+### GPL V3.0 license , please see LICENSE file.
 
 ------------------------------------------------------------------------------------------------------------------
 
 ## tips ...
 
 ### tip 1 : please report bugs to me with one of the following communication ways ...
-### tip 2 : i'm , I will not be responsible for any improper use of CliGsmTool [CGT] ...
+### tip 2 : i'm , I will not be responsible for any improper use of CliGsmTool ...
 
 ------------------------------------------------------------------------------------------------------------------
 
 ## contact me ...
 
 ### email      : 051.SYS113@gmail.com
-### telegram   : https://t.me/SYS113/
-### instagram  : https://www.instagram.com/SYS113/
+### telegram   : [Links](https://t.me/SYS113/)
+### instagram  : [Links](https://www.instagram.com/SYS113/)
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -52,6 +52,6 @@
 
 ## the last word ...
 
-### Hope this tool is useful to you and enjoy it ... 
+### Hope this tool is useful to you and enjoy it.
 
 -------------------------------------------------------------------------------------------------------------------
