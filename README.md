@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------
-![](https://github.com/sys113/CliGsmTool/raw/master/CGT.png)
+<p align="center">
+  <img width="460" height="300"https://github.com/sys113/CliGsmTool/raw/master/CGT.png">
+</p>
 ------------------------------------------------------------------------------------------------------------------
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
