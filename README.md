@@ -22,8 +22,9 @@
 ------------------------------------------------------------------------------------------------------------------
 ## tips 
 
-> 1. please report bugs to me with one of the following communication ways.
-> 2. i'm , I will not be responsible for any improper use of CGT.
+> 1. please `report bugs` to me with one of the following communication ways.
+> 2. `CGT developer` , will not be `responsible` for any improper use of `CGT`.
+
 ------------------------------------------------------------------------------------------------------------------
 ## contact me 
 
@@ -33,12 +34,12 @@
 ------------------------------------------------------------------------------------------------------------------
 ## donate 
 
-> #### You can donate CGT using the following method
+> #### You can donate `CGT` using the following method
 
 > > 1. for `iranian` users :   `meli bank`   > `6037 9975 7621 6759`
 > > 2. for `global`  users : `BTC wallet id` > `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
 -------------------------------------------------------------------------------------------------------------------
 ## the last word 
 
-> Hope this CGT is useful to you and enjoy it.
+> Hope this `CGT` is useful to you and enjoy it.
 -------------------------------------------------------------------------------------------------------------------
