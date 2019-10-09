@@ -12,33 +12,33 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-## what is `CGT` ...
+## what is `CGT`
 
-### The CGT name is derived from `Cli Gsm Tool` ...
+### The `CGT` name is derived from `Cli Gsm Tool` ...
 
 ### CGT is a tool free and open source command-line based tool for mobile phone repairs.
 ------------------------------------------------------------------------------------------------------------------
 
-## copyright ...
+## copyright 
 
 ### copyright SYS113 `[hamid shahsavani]` - 2019.
 
 ------------------------------------------------------------------------------------------------------------------
 
-## license ...
+## license 
 
-### GPL V3.0 license , please see LICENSE file.
+### `GPL V3.0` license , please see `LICENSE` file.
 
 ------------------------------------------------------------------------------------------------------------------
 
-## tips ...
+## tips 
 
 ### tip 1 : please report bugs to me with one of the following communication ways ...
-### tip 2 : i'm , I will not be responsible for any improper use of CliGsmTool ...
+### tip 2 : i'm , I will not be responsible for any improper use of CGT ...
 
 ------------------------------------------------------------------------------------------------------------------
 
-## contact me ...
+## contact me 
 
 ### email      : 051.SYS113@gmail.com
 ### telegram   : SYS113
@@ -46,7 +46,7 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-## donate ...
+## donate 
 
 ### You can donate CGT using the following method ...
 
@@ -55,7 +55,7 @@
 	
 -------------------------------------------------------------------------------------------------------------------
 
-## the last word ...
+## the last word 
 
 ### Hope this tool is useful to you and enjoy it.
 
