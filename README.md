@@ -14,11 +14,11 @@
 ------------------------------------------------------------------------------------------------------------------
 ## copyright 
 
-> * copyright SYS113 `[hamid shahsavani]` - `2019`.
+> * copyright SYS113 **[_hamid shahsavani_]** - **_2019_**.
 ------------------------------------------------------------------------------------------------------------------
 ## license 
 
-> * `GPL V3.0` license , please see `LICENSE` file.
+> * **_GPL V3.0_** license , please see **_LICENSE_** file.
 ------------------------------------------------------------------------------------------------------------------
 ## tips 
 
@@ -28,16 +28,16 @@
 ------------------------------------------------------------------------------------------------------------------
 ## contact me 
 
-> * `email`      : 051.SYS113@gmail.com
-> * `telegram`   : SYS113
-> * `instagram`  : SYS113
+> * [Email](https://051.SYS113@gmail.com)
+> * [Telegram](https://t.me/SYS113/)
+> * [Instagram](https://instagram.com/sys113/)
 ------------------------------------------------------------------------------------------------------------------
 ## donate 
 
 > #### You can donate `CGT` using the following method
 
-> > * for `iranian` users :  &nbsp; `meli bank` &nbsp;&nbsp; > `6037 9975 7621 6759`
-> > * for `global`  users : `BTC wallet id` > `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
+> > * for `iranian` users :  &nbsp; `meli bank` &nbsp;&nbsp; - `6037 9975 7621 6759`
+> > * for  &nbsp;`global`&nbsp;users : `BTC wallet id` - `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
 -------------------------------------------------------------------------------------------------------------------
 ## the last word 
 
