@@ -1,5 +1,6 @@
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-------------------------------------------------------------------------------------------------------------------
+
+<center><img src="https://github.com/sys113/CGT/blob/master/CGT.png"></center>
+
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
 ![](https://img.shields.io/github/tag/SYS113/CGT.svg)
