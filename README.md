@@ -36,8 +36,8 @@
 
 > #### You can donate `CGT` using the following method
 
-> > 1. for `iranian` users :   `meli bank`   - `6037 9975 7621 6759`
-> > 2. for `global`  users : `BTC wallet id` - `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
+> > 1. for `iranian` users :   `meli bank` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> `6037 9975 7621 6759`
+> > 2. for `global`  users : `BTC wallet id` > `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
 -------------------------------------------------------------------------------------------------------------------
 ## the last word 
 
