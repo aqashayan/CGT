@@ -1,7 +1,4 @@
-------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img width="460" height="300"https://github.com/sys113/CliGsmTool/raw/master/CGT.png">
-</p>
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ------------------------------------------------------------------------------------------------------------------
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
