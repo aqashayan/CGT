@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/release/SYS113/CGT.svg)
 ![](https://img.shields.io/github/issues/SYS113/CGT.svg)
 ------------------------------------------------------------------------------------------------------------------
-## what is *<ins>CGT</ins>*
+## * what is <ins>CGT</ins>*
 
 > * The *<ins>CGT</ins>* name is derived from *<ins>**C**li**G**sm**Tool**</ins>*.<br />
 > * *<ins>CGT</ins>* is a tool *<ins>free</ins>* and *<ins>open source</ins>* , *<ins>command line based</ins>* for *<ins>mobile phone</ins>* repairs.
