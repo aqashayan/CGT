@@ -12,16 +12,16 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-## what is CliGsmTool ...
+## what is `CGT` ...
 
-### The CGT name is derived from Cli Gsm Tool ...
+### The CGT name is derived from `Cli Gsm Tool` ...
 
 ### CGT is a tool free and open source command-line based tool for mobile phone repairs.
 ------------------------------------------------------------------------------------------------------------------
 
 ## copyright ...
 
-### copyright SYS113 [hamid shahsavani] - 2019.
+### copyright SYS113 `[hamid shahsavani]` - 2019.
 
 ------------------------------------------------------------------------------------------------------------------
 
