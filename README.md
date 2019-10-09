@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/release/SYS113/CGT.svg)
 ![](https://img.shields.io/github/issues/SYS113/CGT.svg)
 ------------------------------------------------------------------------------------------------------------------
-## _what is *CGT*_
+## what is *<ins>CGT</ins>*
 
 > * The `CGT` name is derived from `Cli Gsm Tool`.<br />
 > * `CGT` is a tool `free` and `open source` , `command-line based` for `mobile phone` repairs.
