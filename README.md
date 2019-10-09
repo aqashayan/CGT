@@ -1,5 +1,7 @@
 -------------------------------------------------------------------------------------------------------------------
-<center><img src="https://github.com/sys113/CGT/blob/master/CGT.png"></center>
+<p align="center">
+  <img src='https://github.com/sys113/CGT/blob/master/CGT.png'>
+</p>
 -------------------------------------------------------------------------------------------------------------------
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
