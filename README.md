@@ -9,8 +9,8 @@
 ------------------------------------------------------------------------------------------------------------------
 ## what is *<ins>CGT</ins>*
 
-> * The `CGT` name is derived from `Cli Gsm Tool`.<br />
-> * `CGT` is a tool `free` and `open source` , `command-line based` for `mobile phone` repairs.
+> * The *<ins>CGT</ins>* name is derived from *<ins>**C**li**G**sm**Tool**</ins>*.<br />
+> * *<ins>CGT</ins>* is a tool *<ins>free</ins>* and *<ins>open source</ins>* , *<ins>command line based</ins>* for *<ins>mobile phone</ins>* repairs.
 ------------------------------------------------------------------------------------------------------------------
 ## copyright 
 
