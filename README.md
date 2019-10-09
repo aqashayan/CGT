@@ -23,8 +23,8 @@
 ------------------------------------------------------------------------------------------------------------------
 ## tips 
 
-> 1. please report bugs to me with one of the following communication ways ...
-> 2. i'm , I will not be responsible for any improper use of CGT ...
+> 1. please report bugs to me with one of the following communication ways.
+> 2. i'm , I will not be responsible for any improper use of CGT.
 ------------------------------------------------------------------------------------------------------------------
 ## contact me 
 
