@@ -21,7 +21,7 @@
 > * *[Telegram](https://t.me/SYS113/)*
 > * *[Instagram](https://instagram.com/sys113/)*
 ## *donate* 
-> #### *You can donate <ins>CGT</ins> using the following method ...*
+> *You can donate <ins>CGT</ins> using the following method*
 > > * *for <ins>iranian</ins> users :  &nbsp; <ins>meli bank</ins> &nbsp;&nbsp; - 6037 9975 7621 6759
 > > * *for  &nbsp;*<ins>global</ins>* &nbsp;users : <ins>BTC wallet id</ins> - 149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw
 ## *the last word* 
