@@ -14,7 +14,9 @@
 
 ## what is CliGsmTool ...
 
-### CliGsmTool is a tool free and open source command-line based tool for mobile phone repairs.
+### The CGT name is derived from Cli Gsm Tool ...
+
+### CGT is a tool free and open source command-line based tool for mobile phone repairs.
 ------------------------------------------------------------------------------------------------------------------
 
 ## copyright ...
