@@ -28,16 +28,16 @@
 ------------------------------------------------------------------------------------------------------------------
 ## contact me 
 
-> #### email      : 051.SYS113@gmail.com
-> #### telegram   : SYS113
-> #### instagram  : SYS113
+> #### 1. email      : 051.SYS113@gmail.com
+> #### 2. telegram   : SYS113
+> #### 3. instagram  : SYS113
 ------------------------------------------------------------------------------------------------------------------
 ## donate 
 
 > #### You can donate CGT using the following method ...
 
-> > #### for iranian users :   meli bank   - 6037 9975 7621 6759
-> > #### for global  users : BTC wallet id - 149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw
+> > ####1. for iranian users :   meli bank   - 6037 9975 7621 6759
+> > ####2. for global  users : BTC wallet id - 149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw
 -------------------------------------------------------------------------------------------------------------------
 ## the last word 
 
