@@ -9,7 +9,7 @@
 ------------------------------------------------------------------------------------------------------------------
 ## *what is <ins>CGT</ins>*
 
-> * The *<ins>CGT</ins>* name is derived from *<ins>**C**li**G**sm**Tool**</ins>*.<br />
+> * The *<ins>CGT</ins>* name is derived from *<ins>**C**li**G**sm**T**ool</ins>*.<br />
 > * *<ins>CGT</ins>* is a tool *<ins>free</ins>* and *<ins>open source</ins>* , *<ins>command line based</ins>* for *<ins>mobile phone</ins>* repairs.
 ------------------------------------------------------------------------------------------------------------------
 ## *copyright*
@@ -18,12 +18,12 @@
 ------------------------------------------------------------------------------------------------------------------
 ## *license* 
 
-> * _*GPL V3.0*_ license , please see _*LICENSE*_ file.
+> * *<ins>GPL V3.0</ins>* license , please see *<ins>LICENSE</ins>* file.
 ------------------------------------------------------------------------------------------------------------------
 ## *tips* 
 
-> * please `report bugs` to me with one of the following communication ways.
-> * `CGT developer` , will not be `responsible` for any improper use of `CGT`.
+> * please *<ins>report bugs</ins>* to me with one of the following communication ways.
+> * *<ins>CGT developer</ins>* , will not be *<ins>responsible</ins>* for any improper use of *<ins>CGT</ins>*.
 
 ------------------------------------------------------------------------------------------------------------------
 ## *contact me* 
@@ -34,10 +34,10 @@
 ------------------------------------------------------------------------------------------------------------------
 ## *donate* 
 
-> #### You can donate `CGT` using the following method
+> #### You can donate *<ins>CGT</ins>* using the following method
 
-> > * for `iranian` users :  &nbsp; `meli bank` &nbsp;&nbsp; - `6037 9975 7621 6759`
-> > * for  &nbsp;`global`&nbsp;users : `BTC wallet id` - `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
+> > * for *<ins>iranian</ins>* users :  &nbsp; *<ins>meli bank</ins>* &nbsp;&nbsp; - `6037 9975 7621 6759`
+> > * for  &nbsp;*<ins>global</ins>* &nbsp;users : `BTC wallet id` - `149JgUmFqG6MvFg79Ldrvdk2bN35ByhMuw`
 -------------------------------------------------------------------------------------------------------------------
 ## *the last word* 
 
