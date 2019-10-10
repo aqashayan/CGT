@@ -8,7 +8,7 @@
 
 ## *what is <ins>CGT</ins>*
 > * *The <ins>CGT</ins> name is derived from <ins>**C**li**G**sm**T**ool</ins>.<br />*
-> * *<ins>CGT</ins> is a tool <ins>free</ins> and <ins>open source</ins> , <ins>command line based</ins> for <ins>mobile phone</ins> repairs.*
+> * *<ins>CGT</ins> is a tool <ins>free</ins> , <ins>open source</ins> and <ins>cross platform</ins> , <ins>command line based</ins> for <ins>mobile phone</ins> repairs.*
 ## *copyright*
 > * *copyright <ins>SYS113</ins> [<ins>hamid shahsavani</ins>] - <ins>2019</ins>.*
 ## *license* 
