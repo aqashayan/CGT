@@ -1,4 +1,4 @@
-![](https://github.com/sys113/CGT/blob/master/LOGO.png)
+![](https://github.com/sys113/CGT-dependencies/raw/master/CGT.png)
 
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
