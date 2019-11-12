@@ -12,12 +12,24 @@
 > * *The <ins>CGT</ins> name is derived from <ins>**C**li**G**sm**T**ool</ins>.<br />*
 > * *<ins>CGT</ins> is a tool <ins>free</ins> , <ins>open source</ins>  , <ins>multi language</ins> , <ins>cross platform(comming soon)</ins> and <ins>command line based</ins> for <ins>mobile phone</ins> repairs.*
 ---
+## *run <ins>CGT</ins>*
+> *1. git clone https://github.com/sys113/CGT/*<br />
+> *2. cd CGT*<br />
+> *3. python3 -m pip install -r REQUIREMENTS*<br />
+> *4. python3 CGT.py*
+---
+> *1. git clone https://github.com/sys113/CGT/*<br />
+> *2. cd CGT*<br />
+> *3. python3 -m pip install -r REQUIREMENTS*<br />
+> *4. python3 -m pip install pyinstaller*<br />
+> *5. pyinstaller --path=src CGT.py*
+---
 ## *generate executable from <ins>CGT</ins> in windows*
 > *1. git clone https://github.com/sys113/CGT/*<br />
 > *2. cd CGT*<br />
-> *3. py -m pip install -r REQUIREMENTS*<br />
-> *4. py -m pip install pyinstaller*<br />
-> *5. pyinstaller --onefile --path=src CGT.py*
+> *3. python3 -m pip install -r REQUIREMENTS*<br />
+> *4. python3 -m pip install pyinstaller*<br />
+> *5. pyinstaller --path=src CGT.py*
 ---
 ## *copyright*
 > * *copyright <ins>SYS113</ins> - <ins>2019</ins>.*
