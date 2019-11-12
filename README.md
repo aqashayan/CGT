@@ -13,7 +13,11 @@
 > * *<ins>CGT</ins> is a tool <ins>free</ins> , <ins>open source</ins>  , <ins>multi language</ins> , <ins>cross platform(comming soon)</ins> and <ins>command line based</ins> for <ins>mobile phone</ins> repairs.*
 ---
 ## *generate executable from <ins>CGT</ins> in windows*
-> *1. py -m pip install -r REQUIREMENTS*
+> *1. git clone https://github.com/sys113/CGT/*
+> *2. cd CGT*
+> *3. py -m pip install -r REQUIREMENTS*
+> *4. py -m pip install pyinstaller*
+> *5. pyinstaller --onefile --path=src CGT.py*
 ---
 ## *copyright*
 > * *copyright <ins>SYS113</ins> - <ins>2019</ins>.*
