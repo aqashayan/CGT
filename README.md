@@ -1,7 +1,7 @@
-![](https://github.com/sys113/CGT-dependencies/raw/master/CGT.png)
+---
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/sys113/CGT-dependencies/raw/master/CGT.png">
+  <img width="500" height="500" src="https://github.com/sys113/CGT-dependencies/raw/master/CGT.png">
 </p>
 
 ---
