@@ -1,5 +1,9 @@
 ![](https://github.com/sys113/CGT-dependencies/raw/master/CGT.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/sys113/CGT-dependencies/raw/master/CGT.png">
+</p>
+
 ---
 
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
