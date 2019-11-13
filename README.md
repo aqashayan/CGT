@@ -6,13 +6,14 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/github/stars/SYS113/CGT.svg)
-![](https://img.shields.io/github/forks/SYS113/CGT.svg)
-![](https://img.shields.io/github/release/SYS113/CGT.svg)
-![](https://img.shields.io/github/issues/SYS113/CGT.svg)
-![](https://img.shields.io/badge/license-GPL3-informational.svg)
-![](https://img.shields.io/badge/language-python-orange.svg)
+<p align="center">
+  ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
+  ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
+  ![](https://img.shields.io/github/release/SYS113/CGT.svg)
+  ![](https://img.shields.io/github/issues/SYS113/CGT.svg)
+  ![](https://img.shields.io/badge/license-GPL3-informational.svg)
+  ![](https://img.shields.io/badge/language-python-orange.svg)
+</p>
 
 ---
 
