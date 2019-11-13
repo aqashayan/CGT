@@ -2,11 +2,10 @@
 
 ![](https://img.shields.io/github/stars/SYS113/CGT.svg)
 ![](https://img.shields.io/github/forks/SYS113/CGT.svg)
-![](https://img.shields.io/github/tag/SYS113/CGT.svg)
 ![](https://img.shields.io/github/release/SYS113/CGT.svg)
 ![](https://img.shields.io/github/issues/SYS113/CGT.svg)
-![](https://img.shields.io/badge/License-GPL3-purple.svg)
-![](https://img.shields.io/badge/Language-python-yellow.svg)
+![](https://img.shields.io/badge/license-GPL3-informational.svg)
+![](https://img.shields.io/badge/language-python-orange.svg)
 
 ---
 ## *what is <ins>CGT</ins>*
