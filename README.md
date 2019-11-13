@@ -5,9 +5,10 @@
 ![](https://img.shields.io/github/tag/SYS113/CGT.svg)
 ![](https://img.shields.io/github/release/SYS113/CGT.svg)
 ![](https://img.shields.io/github/issues/SYS113/CGT.svg)
+![](https://img.shields.io/badge/License-GPL3-purple.svg)
+![](https://img.shields.io/badge/Language-python-yellow.svg)
 
 ---
-
 ## *what is <ins>CGT</ins>*
 > * *The <ins>CGT</ins> name is derived from <ins>**C**li**G**sm**T**ool</ins>.<br />*
 > * *<ins>CGT</ins> is a tool <ins>free</ins> , <ins>open source</ins>  , <ins>multi language</ins> , <ins>cross platform(comming soon)</ins> and <ins>command line based</ins> for <ins>mobile phone</ins> repairs.*
