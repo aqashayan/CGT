@@ -43,9 +43,9 @@
 > * *<ins>CGT developer</ins> , will not be <ins>responsible</ins> for any improper use of <ins>CGT</ins>.*
 ---
 > ## *contact me* 
-> * *[Email](https://051.SYS113@gmail.com)*
-> * *[Telegram](https://t.me/SYS113/)*
-> * *[Instagram](https://instagram.com/sys113/)*
+> * *[email](mailto:051.SYS113@gmail.com)*
+> * *[telegram](https://t.me/SYS113/)*
+> * *[instagram](https://instagram.com/sys113/)*
 > ---
 > ## *donate* 
 > > *You can donate <ins>CGT</ins> using the following method ...*
